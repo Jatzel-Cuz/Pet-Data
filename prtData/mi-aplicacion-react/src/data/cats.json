@@ -1,0 +1,16 @@
+
+[
+    {
+      "breed": "Siamese",
+      "description": "Gatos sociables con pelaje claro en el cuerpo y oscuro en las extremidades, y ojos azules intensos. Son juguetones y vocalizan mucho.",
+      "characteristics": " Energéticos, curiosos y sociables, disfrutan de la compañía humana y la interacción.",
+      "foodRequirements": "Necesitan una dieta equilibrada y nutritiva en porciones adecuadas para mantener su salud y energía"
+    },
+    {
+      "breed": "Persian",
+      "description": "Gatos de pelaje largo y denso, con cara plana y nariz chata. Son conocidos por su temperamento tranquilo y amoroso",
+      "characteristics": "Tranquilos, afectuosos y adaptados a la vida en interiores. Disfrutan de la relajación y el afecto humano.",
+      "foodRequirements": " Requieren una dieta equilibrada y nutritiva, adaptada a su estilo de vida sedentario, para mantener un peso saludable y prevenir problemas de salud relacionados con la obesidad"
+    }
+  ]
+  

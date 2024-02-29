@@ -1,0 +1,47 @@
+
+[
+    {
+      "breed": "Pitbull",
+      "description": "Los Pitbulls son perros atléticos y musculosos con una reputación de ser valientes y protectores. Son conocidos por su lealtad hacia sus familias y su inteligencia. Aunque a menudo se asocian erróneamente con la agresividad, los Pitbulls pueden ser perros cariñosos y afectuosos con una socialización adecuada y una crianza responsable.",
+      "characteristics": "Los Pitbulls suelen tener una constitución atlética, con músculos bien desarrollados y una cabeza ancha. Son perros activos y enérgicos que disfrutan de actividades al aire libre y juegos interactivos. Su naturaleza atlética los hace excelentes compañeros para actividades como correr, caminar y jugar a buscar.",
+      "foodRequirements": " Al ser perros activos, los Pitbulls requieren una dieta equilibrada que proporcione los nutrientes necesarios para mantener su energía y salud. Es importante alimentarlos con una dieta de alta calidad, que incluya una combinación adecuada de proteínas, grasas, carbohidratos, vitaminas y minerales. La cantidad de comida dependerá de factores como el peso, la edad, el nivel de actividad y la salud del perro. Es recomendable consultar con un veterinario para determinar las necesidades nutricionales específicas de tu Pitbull y establecer un plan de alimentación adecuado."
+    },
+    {
+      "breed": "Doberman",
+      "description": " El Doberman es un perro de tamaño mediano a grande, atlético y elegante. Es conocido por su lealtad y naturaleza alerta.",
+      "characteristics": "Son inteligentes, leales y enérgicos, disfrutando de actividades físicas y mentales. Son fáciles de entrenar y buenos protectores.",
+      "foodRequirements": "Requieren una dieta equilibrada con proteínas, grasas saludables, carbohidratos, vitaminas y minerales. La cantidad de comida varía según la edad, peso y nivel de actividad del perro. Se recomienda consultar con un veterinario para establecer un plan de alimentación adecuado."
+    },
+    {
+      "breed": "San Bernardo",
+      "description": "El San Bernardo es una raza de perro grande y musculosa, conocida por su naturaleza gentil y amigable. Son perros poderosos y resistentes, con una apariencia majestuosa y un pelaje denso y suave.",
+      "characteristics": " Los San Bernardos son conocidos por su temperamento calmado y amigable. Son perros inteligentes, leales y cariñosos, lo que los convierte en excelentes compañeros familiares. A pesar de su tamaño, son suaves y pacientes con los niños y se llevan bien con otros animales.",
+      "foodRequirements": "Los San Bernardos necesitan una dieta equilibrada y nutritiva debido a su tamaño y nivel de actividad moderado. Es crucial alimentarlos con alimentos de alta calidad en porciones adecuadas para evitar el sobrepeso. Se recomienda consultar con un veterinario para determinar la cantidad y el tipo de alimentos que satisfagan las necesidades específicas de tu San Bernardo."
+    },
+    {
+      "breed": "Rottweiler",
+      "description": "El Rottweiler es una raza de perro robusta y poderosa, conocida por su lealtad y temperamento valiente. Son perros de tamaño mediano a grande, con una apariencia musculosa y una expresión serena.",
+      "characteristics": " Los Rottweilers son perros inteligentes, valientes y dedicados a sus familias. Son protectores naturales y pueden ser reservados con extraños, pero tienden a ser amables y afectuosos con sus seres queridos. Requieren una socialización temprana y un entrenamiento consistente.",
+      "foodRequirements": "Los Rottweilers necesitan una dieta equilibrada y nutritiva para mantener su salud y energía. Es importante proporcionarles alimentos de alta calidad en porciones adecuadas para evitar problemas de peso. Consultar con un veterinario para obtener recomendaciones específicas sobre la alimentación y el cuidado de tu Rottweiler es esencial."
+    },
+    {
+      "breed": "Husky Siberieano",
+      "description": "El Husky Siberiano es una raza de perro de tamaño mediano conocida por su apariencia hermosa y su naturaleza enérgica. Tienen un pelaje espeso y esponjoso con colores variados y ojos distintivos de color azul o heterocromía.",
+      "characteristics": "Los Huskies Siberianos son perros activos, juguetones y sociables. Son conocidos por su fuerte instinto de manada y necesidad de ejercicio regular. Son independientes y pueden ser obstinados en su entrenamiento, pero son amigables y cariñosos con sus familias.",
+      "foodRequirements": " Los Huskies Siberianos requieren una dieta equilibrada y nutritiva para mantener su nivel de energía. Debido a su naturaleza activa, necesitan alimentos ricos en proteínas y grasas saludables. Es importante proporcionarles porciones adecuadas y consultar con un veterinario para determinar sus necesidades específicas de alimentación"
+    },    
+    {
+      "breed": "Golden Retriever",
+      "description": "El Golden Retriever es un perro de tamaño mediano a grande, conocido por su amabilidad y disposición para trabajar.",
+      "characteristics": "Son cariñosos, confiables e inteligentes, lo que los hace excelentes compañeros familiares y animales de terapia.",
+      "foodRequirements": "Necesitan una dieta equilibrada y nutritiva en porciones adecuadas para su tamaño y nivel de actividad. Consultar con un veterinario es importante para determinar sus necesidades específicas de alimentación."
+    },
+    {
+      "breed": "Pastor Belga",
+      "description": " Perro mediano a grande conocido por su inteligencia y habilidades como perro pastor.",
+      "characteristics": "Son trabajadores, enérgicos e inteligentes, con una naturaleza leal y protectora",
+      "foodRequirements": " Necesitan una dieta equilibrada y nutritiva en porciones adecuadas para su tamaño y nivel de actividad. Consultar con un veterinario es recomendable para determinar sus necesidades específicas de alimentación."
+    }
+
+  ]
+  
