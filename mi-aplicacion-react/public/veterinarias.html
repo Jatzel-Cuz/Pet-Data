@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa de Veterinarias</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=TU_CLAVE_DE_API&libraries=places"></script>
+</head>
+<body>
+    <div id="map" style="height: 400px; width: 100%;"></div>
+    <script>
+        var map;
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: {lat: -34.397, lng: 150.644},
+                zoom: 12
+            });
+
+            var request = {
+                location: map.center,
+                radius: '5000', // Radio de búsqueda en metros
+                type: ['veterinary_care'] // Tipo de lugar a buscar
+            };
+
+            var service = new google.maps.places.PlacesService(map);
+            service.nearbySearch(request, callback);
+        }
+
+        function callback(results, status) {
+            if (status == google.maps.places.PlacesServiceStatus.OK) {
+                for (var i = 0; i < results.length; i++) {
+                    createMarker(results[i]);
+                }
+            }
+        }
+
+        function createMarker(place) {
+            var marker = new google.maps.Marker({
+                map: map,
+                position: place.geometry.location
+            });
+
+            var infowindow = new google.maps.InfoWindow();
+            google.maps.event.addListener(marker, 'click', function() {
+                infowindow.setContent(place.name);
+                infowindow.open(map, this);
+            });
+        }
+
+        initMap();
+    </script>
+</body>
+</html>
